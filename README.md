@@ -89,7 +89,7 @@ Fitur pencarian dan formulir kontak dijalankan melalui server lokal yang menduku
 Website utama telah di-deploy menggunakan Vercel.
 
 **Link Website:*
-[*https://muhammadfaridzaidaanweb.vercel.app/]
+[https://muhammdfaridzaidaaanuts-qyr4-git-main-farid-3f66.vercel.app/]
 
 **Catatan:** Fitur PHP dijalankan dan diuji secara lokal menggunakan server PHP/XAMPP. Deployment statis di Vercel tidak menjalankan PHP secara langsung.
 
